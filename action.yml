@@ -1,6 +1,6 @@
-name: 'TODO to Issue'
+name: 'TODO to Issue (MDX support)'
 description: 'Converts IDE TODO comments to GitHub issues'
-author: 'Alastair Mooney'
+author: 'Thomas F. K. Jorna'
 runs:
   using: 'docker'
   image: 'Dockerfile'
